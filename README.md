@@ -16,8 +16,8 @@ Project should auto-start served at localhost:3000 with the gulp file watching f
 <li>Static HTML file located in <strong>app/index.html</strong></li>
 <li>All custom JS located in <strong>app/js/common.js</strong></li>
 <li>All custom SCSS located in <strong>app/scss/main.scss</strong></li>
-<li>All SCSS vars placed in <strong>app/scss/_vars.scss;</li>
-<li>All Bootstrap media queries placed in <strong>app/scss/_media.scss</strong>;</li>
+<li>All SCSS vars placed in <strong>app/scss/_vars.scss</strong></li>
+<li>All Bootstrap media queries placed in <strong>app/scss/_media.scss</strong></li>
 
 	
 </ul>
