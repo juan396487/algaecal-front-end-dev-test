@@ -1,6 +1,5 @@
 # algaecal-front-end-dev-test
 
-Download or clone repository to location on your computer
 
 1. Install Node.js and NPM (https://nodejs.org/en/)
 2. Install Git (https://git-scm.com/download/)
