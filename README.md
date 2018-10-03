@@ -9,7 +9,7 @@
 6. Command Line: npm install
 7. Command Line: gulp
 
-Project should auto-start served at localhost:3000 with the gulp gile watching for changes
+Project should auto-start served at localhost:3000 with the gulp file watching for changes
 
 <ul>
 
